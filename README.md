@@ -1,1 +1,1 @@
-# templateSocketJava
+# Communication between client and server
